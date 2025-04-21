@@ -15,7 +15,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 https://drive.google.com/drive/folders/1nexeRHxlilcpw5y6K_53u9CGKAv4Czub
 
-TO view
+To view
 
 
 
